@@ -4,13 +4,9 @@ building at the intersection of autonomous AI agents and cross-chain DeFi.
 
 **[Suwappu](https://suwappu.bot)** — cross-chain DEX with a native AI agent SDK. plug in LangChain, CrewAI, MCP, or A2A and let agents trade autonomously across chains.
 
-**[Entanglement Transfer Protocol](https://github.com/0xSoftBoi/Entanglement-Transfer-Protocol)** — rethinking data ownership. instead of copying bits from A to B, you transfer ownership proofs over an immutable commitment layer. the data never moves.
+also: [sensorforge](https://github.com/0xSoftBoi/sensorforge) (edge AI on Jetson Orin)
 
-**[GlobalSettlementNetwork](https://github.com/GlobalSettlementNetwork)** — institutional DeFi infra: AML/KYC screening, sanctions monitoring, cross-chain settlement primitives.
-
-also: [sensorforge](https://github.com/0xSoftBoi/sensorforge) (edge AI on Jetson Orin) · [op-stack-reth](https://github.com/GlobalSettlementNetwork/op-stack-reth) (custom OP Stack execution client)
-
-`TypeScript` `Python` `Solidity` · EVM · OP Stack · Washington DC
+`TypeScript` `Python` `Solidity` · EVM · Washington DC
 
 → [@0xSoftBoi](https://twitter.com/0xSoftBoi) · [suwappu.bot](https://www.suwappu.bot)
 
