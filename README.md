@@ -1,26 +1,13 @@
-### hi, I'm 0xSoftBoi
+<img src="profile-banner.png" alt="0xSoftBoi — security & systems">
 
-building at the intersection of autonomous AI agents and cross-chain DeFi.
+security & systems engineer · cross-chain infra + smart-contract security · rust, evm
 
-**[Suwappu](https://suwappu.bot)** — cross-chain DEX with a native AI agent SDK. plug in LangChain, CrewAI, MCP, or A2A and let agents trade autonomously across chains.
+recent work:
+- [alloy-rs/core #1105](https://github.com/alloy-rs/core/pull/1105) — EIP-712 self-referential struct canonicalization in `dyn-abi` (alloy is the Rust lib under Foundry & Reth)
+- [uutils/coreutils #12327](https://github.com/uutils/coreutils/pull/12327) — `date` timezone re-zoning in the Rust rewrite of GNU coreutils
+- [lock-mint-bridge-lab](https://github.com/0xSoftBoi/lock-mint-bridge-lab) — audited my own lock-and-mint bridge end-to-end: Foundry stateful invariants (512x100), Slither, Halmos, Ronin/Wormhole/Nomad exploit reproductions
+- [BRIDGE-bench](https://github.com/0xSoftBoi/anthropic-fellowship) — static analysis lands ~0% F1 on compositional bridge hacks; a static-prefiltered LLM reaches ~40%
 
-also: [sensorforge](https://github.com/0xSoftBoi/sensorforge) (edge AI on Jetson Orin)
+now: building Suwappu — agent-native cross-chain swaps.
 
-`TypeScript` `Python` `Solidity` · EVM · Washington DC
-
-→ [@0xSoftBoi](https://twitter.com/0xSoftBoi) · [suwappu.bot](https://www.suwappu.bot)
-
----
-
-<p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=0xSoftBoi&hide_title=true&hide_border=true&show_icons=true&count_private=true&text_color=ffffff&icon_color=00FF41&bg_color=000000" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSoftBoi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=00FF41&bg_color=000000" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xSoftBoi&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSoftBoi&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" />
-</p>
+[0xsoftboi.github.io](https://0xsoftboi.github.io) · [@0xSoftBoi](https://twitter.com/0xSoftBoi) · layerinfinite@gmail.com
