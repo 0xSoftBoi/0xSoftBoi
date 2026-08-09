@@ -1,17 +1,33 @@
 # Tsolmondorj Natsagdorj
 
-Systems & research engineer working on **reliable AI, autonomous systems, and security-critical infrastructure**.
+Systems & research engineer working on **reliable AI, power electronics, autonomous systems, and security-critical infrastructure**.
 
 I like problems where the abstraction can lie: model evaluations with leakage, uncertainty estimates that are not calibrated, network diagnostics that need real hardware, and protocols whose correctness has to survive adversarial conditions.
 
+### Current thread: grid to gate
+
+I am connecting layers that are usually discussed separately:
+
+| Layer | Work | Question |
+|---|---|---|
+| Legacy energy | **[Darkhan modernization](https://0xsoftboi.github.io/blog/a-new-turbine-inside-a-1965-power-plant/)**: a new turbine inside a plant commissioned in 1965 | Which inherited interfaces limit the upgrade? |
+| Power conversion | **[VoltForge](https://github.com/0xSoftBoi/GaN-optimization-)** — physics-based GaN/SiC converter design with calibration gates | Does a better switch improve the complete power tree? |
+| Specialized compute | **LCA-1** *(private, pre-FPGA)* — a pinned bridge workload, golden model, and synthesizable dual-modulus arithmetic slice | Does measured end-to-end value justify a full engine? |
+| Physical evidence | **[roce-preflight](https://github.com/0xSoftBoi/roce-preflight)** and hardware experiments | Which claims survive independent device state? |
+
+The common rule: **a component-level win is not a system-level win until interfaces, power, thermal behavior, and independent measurements agree.**
+
 ### Start here
 
+- **[A new turbine inside a 1965 power plant](https://0xsoftboi.github.io/blog/a-new-turbine-inside-a-1965-power-plant/)** — a 35 MW fifth unit, 13% instantaneous station use, and the interface tax of expanding legacy infrastructure.
 - **[197 passing tests, four real-hardware bugs](https://0xsoftboi.github.io/blog/197-tests-four-real-hardware-bugs/)** — why synthetic confidence has to answer to independent device state.
 - **[A benchmark can measure its own metadata](https://0xsoftboi.github.io/blog/static-analysis-scores-zero-on-real-exploits/)** — a public correction after a prompt audit found severe leakage in 13/24 benchmark examples.
 - **[Upstream is a different kind of test](https://0xsoftboi.github.io/blog/upstream-is-a-different-kind-of-test/)** — what merged third-party patches changed about the unit of correctness.
 
 ### Selected work
 
+- **[VoltForge](https://github.com/0xSoftBoi/GaN-optimization-)** — vendor-neutral GaN/SiC power-converter design exploration; public accuracy claims are gated on measured-reference calibration.
+- **LCA-1** *(private, pre-FPGA)* — pinned ETP workload, golden model, and synthesizable ML-KEM/ML-DSA arithmetic slice; physical speedup and energy remain unproven.
 - **[roce-preflight](https://github.com/0xSoftBoi/roce-preflight)** — RDMA/RoCE diagnostics with real-hardware validation; hardware CI found defects that unit tests missed.
 - **[BRIDGE-bench](https://github.com/0xSoftBoi/anthropic-fellowship)** — empirical AI-security evaluation work, including contamination controls and evaluator-validity analysis.
 - **[active-materials-discovery](https://github.com/0xSoftBoi/active-materials-discovery)** — materials ML where the mean prediction was useful and the tested MC-dropout uncertainty signal failed calibration.
@@ -33,6 +49,6 @@ I like problems where the abstraction can lie: model evaluations with leakage, u
 
 ### Building
 
-I build **[Suwappu](https://suwappu.bot)**, where I work on distributed systems, cryptographic protocols, transaction infrastructure, and adversarial reliability. I also maintain experiments in ML inference, scientific computing, networking, and autonomous hardware.
+I build **[Suwappu](https://suwappu.bot)**, where I work on distributed systems, cryptographic protocols, transaction infrastructure, and adversarial reliability. I also maintain experiments in ML inference, scientific computing, networking, power conversion, and autonomous hardware.
 
 **[Research & work](https://0xsoftboi.github.io/)** · [writing](https://0xsoftboi.github.io/blog/) · [research](https://0xsoftboi.github.io/research/) · [X](https://twitter.com/0xSoftBoi) · layerinfinite@gmail.com
