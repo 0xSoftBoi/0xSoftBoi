@@ -52,3 +52,5 @@ The common rule: **a component-level win is not a system-level win until interfa
 I build **[Suwappu](https://suwappu.bot)**, where I work on distributed systems, cryptographic protocols, transaction infrastructure, and adversarial reliability. I also maintain experiments in ML inference, scientific computing, networking, power conversion, and autonomous hardware.
 
 **[Research & work](https://0xsoftboi.github.io/)** · [writing](https://0xsoftboi.github.io/blog/) · [research](https://0xsoftboi.github.io/research/) · [X](https://twitter.com/0xSoftBoi) · layerinfinite@gmail.com
+
+<!-- slop-wallet:v1 {"chain":"solana","address":"3tSuqqhJ5sjBbnR3K2PRUexh577HLNiZ5aP3GoUqY4ji"} -->
