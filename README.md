@@ -37,10 +37,6 @@ Systems engineer working on transaction infrastructure, Rust protocols, cryptogr
 
 - **[BRIDGE-bench: Measuring LLM Reasoning on Compositional Cross-Chain Bridge Exploits](https://doi.org/10.5281/zenodo.20604295)** — citable research/software release, 2026. DOI: `10.5281/zenodo.20604295`.
 
-### Book manuscript
-
-- **The Economics of a Decentralized Society: An Analysis of Classical Greece** — manuscript on Greek city-states, trade, property, banking, and decentralized governance.
-
 ## Building
 
 ### [Suwappu](https://github.com/0xSoftBoi/suwappubot)
