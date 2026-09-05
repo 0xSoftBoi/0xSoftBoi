@@ -15,10 +15,31 @@ Systems engineer working on transaction infrastructure, Rust protocols, cryptogr
 - [materialyzeai/matgl #801](https://github.com/materialyzeai/matgl/pull/801) — MC-dropout uncertainty estimation for pretrained models.
 - [BankrBot/skills #491](https://github.com/BankrBot/skills/pull/491) — Suwappu cross-chain MCP skill.
 
-## Publications
+## Research & publications
 
-- **[Accounting for an Omnichain Dollar](https://www.suwappu.bot/research/reports/accounting-for-an-omnichain-dollar.pdf)** — Suwappu Research, 2026. USDT0 token-unit backing, assurance perimeter, and bank-control implications.
-- **The Economics of a Decentralized Society: An Analysis of Classical Greece** — book manuscript on the political economy of Greek city-states, trade, property, banking, and decentralized governance.
+### Suwappu Research — working papers
+
+- **[A 10-for-1 stock split can leave your ERC-20 balance unchanged](https://suwappu.bot/research/replication/papers/erc8056-stock-token-interface-risk.md)** — tokenized assets / ERC-8056, 2026.
+- **[USDT0 backing reconciliation: separating protocol coverage from issuer risk](https://suwappu.bot/research/replication/papers/usdt0-collateral-reconciliation.md)** — reserve and settlement risk, 2026.
+- **[What is a minute of cross-chain execution worth? Pricing latency without confusing ETA for finality](https://suwappu.bot/research/replication/papers/settlement-latency-value.md)** — execution governance, 2026.
+- **[Incentive budgets as market design: what survives after the model fails](https://suwappu.bot/research/replication/papers/points-tullock-contests.md)** — mechanism design and model risk, 2026.
+- **[When a mathematically correct model is wrong: an allocation-model validation case study](https://suwappu.bot/research/replication/papers/airdrop-concentration.md)** — model validation, 2026.
+
+### Report
+
+- **[Accounting for an Omnichain Dollar](https://suwappu.bot/research/reports/accounting-for-an-omnichain-dollar.pdf)** — Suwappu Research Report 01, 2026. Institutional report edition of the USDT0 study.
+
+### Scientific ML
+
+- **[Pre-trained Surrogates Suffice: Active Learning for Crystal Stability on the WBM Benchmark](https://github.com/0xSoftBoi/active-materials-discovery/blob/master/paper/paper_final.pdf)** — research manuscript. [Source](https://github.com/0xSoftBoi/active-materials-discovery/blob/master/paper/materials_discovery_paper.tex) · [Erratum](https://github.com/0xSoftBoi/active-materials-discovery/blob/master/paper/ERRATA.md).
+
+### Research release
+
+- **[BRIDGE-bench: Measuring LLM Reasoning on Compositional Cross-Chain Bridge Exploits](https://doi.org/10.5281/zenodo.20604295)** — citable research/software release, 2026. DOI: `10.5281/zenodo.20604295`.
+
+### Book manuscript
+
+- **The Economics of a Decentralized Society: An Analysis of Classical Greece** — manuscript on Greek city-states, trade, property, banking, and decentralized governance.
 
 ## Building
 
@@ -45,4 +66,4 @@ Constrained active learning for materials discovery using graph models and uncer
 
 Rust implementation of post-quantum finality certificates and validator accountability.
 
-[Website](https://0xsoftboi.github.io/) · [Writing](https://0xsoftboi.github.io/blog/) · [X](https://twitter.com/0xSoftBoi)
+[Website](https://0xsoftboi.github.io/) · [Research](https://0xsoftboi.github.io/research/) · [ORCID](https://orcid.org/0009-0009-6010-6273) · [Writing](https://0xsoftboi.github.io/blog/) · [X](https://twitter.com/0xSoftBoi)
