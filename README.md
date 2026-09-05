@@ -17,6 +17,10 @@ Systems engineer working on transaction infrastructure, Rust protocols, cryptogr
 
 ## Research & publications
 
+### Book
+
+- **[Printing Money](https://tsoma2.gumroad.com/l/printingmoney)** — practical systems/security book on how value is created, exploited, and secured across DeFi, bridges, MEV, ZK, post-quantum cryptography, and ML failure modes. [Executable labs](https://github.com/0xSoftBoi/printing-money-labs).
+
 ### Suwappu Research — working papers
 
 - **[A 10-for-1 stock split can leave your ERC-20 balance unchanged](https://suwappu.bot/research/replication/papers/erc8056-stock-token-interface-risk.md)** — tokenized assets / ERC-8056, 2026.
